@@ -1,5 +1,5 @@
 # Chatroom
-
+This app allows you to chat with others through sockets. It uses the Phoenix framework. This is an updated version of the popular tutorial found here (as of 1/9/25): https://shyr.io/blog/simple-chat-phoenix-elixir
 To start your Phoenix server:
 
   * Run `mix setup` to install and setup dependencies
